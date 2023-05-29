@@ -13,7 +13,7 @@ import edu.vibatista.controleusuarios.model.User;
 import edu.vibatista.controleusuarios.repository.UserRepository;
 
 @RestController
-@CrossOrigin("https://localhost:3000")
+@CrossOrigin("http://localhost:3000")
 public class UserController {
     
 
